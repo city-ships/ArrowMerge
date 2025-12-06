@@ -24,7 +24,7 @@ A clean, Python-based visual Diff & Merge tool built with PyQt6. Designed with u
 
 1. Clone functionality repository:
    ```bash
-   git clone https://github.com/yourusername/arrowmerge.git
+   git clone https://github.com/city-ships/arrowmerge.git
    cd arrowmerge
    ```
 
